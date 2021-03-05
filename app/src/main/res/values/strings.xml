@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A1-Hw2</string>
+    <string name="resultButtonName">result</string>
+    <string name="some">some</string>
+    <string name="enter">Enter</string>
+    <string name="number">number</string>
+    <string name="android_dancer">android dancer</string>
+    <string name="divide">/</string>
+    <string name="plus">+</string>
+</resources>
